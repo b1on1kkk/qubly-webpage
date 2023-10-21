@@ -1,0 +1,33 @@
+* {
+  color: #000;
+  font-family: Metropolis, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.navigation-wrapper {
+  display: flex;
+  justify-content: center;
+  height: 53px;
+  padding-top: 19px;
+  margin: 0 240px 131px 240px;
+}
+
+.navigation-information {
+  gap: 40px;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+}
+
+.nav-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navigation-information-wrapper {
+  flex: 1;
+}

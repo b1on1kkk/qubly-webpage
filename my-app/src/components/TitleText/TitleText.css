@@ -1,0 +1,35 @@
+.why-main-title,
+.offer-title,
+.information-title,
+.testimanial-title,
+.main_title_text {
+  color: #000;
+  font-family: Metropolis;
+  font-size: 49px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.why-main-title {
+  font-size: 32px;
+}
+
+.fixed {
+  width: 144px;
+}
+
+.offer-title {
+  font-size: 16px;
+}
+
+.information-title {
+  font-size: 16px;
+  font-weight: 500;
+  color: #722ed1;
+}
+
+.testimanial-title {
+  font-size: 24px;
+  font-weight: 500;
+}

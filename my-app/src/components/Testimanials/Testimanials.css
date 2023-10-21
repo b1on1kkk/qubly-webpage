@@ -1,0 +1,35 @@
+.top-page-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.top-page {
+  display: inline-flex;
+  flex-direction: column;
+  width: 965px;
+  text-align: center;
+  gap: 32px;
+  align-items: center;
+}
+
+.profile_picture img {
+  border-radius: 50%;
+}
+
+.line {
+  border: 1px solid #dec9fa;
+  width: 100%;
+}
+
+.line {
+  margin-bottom: 32px;
+}
+
+.companies {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 91px;
+}

@@ -1,0 +1,57 @@
+.button-wrapper {
+  display: inline-flex;
+}
+
+.learn-more,
+.information-button,
+.start-free-trial,
+.content-button,
+.why-qubly,
+.button {
+  display: flex;
+  padding: 12px 24px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 23px;
+  border: 1px solid #722ed1;
+  background: white;
+}
+
+.content-button span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  color: #722ed1;
+}
+
+.free-trial {
+  color: #722ed1;
+}
+
+.start-free-trial {
+  border: 0px;
+  background: #722ed1;
+  color: white;
+}
+
+.learn-more {
+  border: 0;
+  background: #fff;
+  color: #722ed1;
+}
+
+.information-button,
+.why-qubly {
+  padding: 8px 16px;
+  background: #f7f1ff;
+}
+
+.information-button,
+.why-qubly span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  color: #722ed1;
+}

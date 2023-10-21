@@ -1,0 +1,17 @@
+.content {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  width: 472px;
+}
+
+.content-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.underneath-buttons-wrapper {
+  display: flex;
+  gap: 16px;
+}

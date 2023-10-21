@@ -1,0 +1,16 @@
+.top {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+}
+
+.text_wrapper {
+  width: 672px;
+  text-align: center;
+}
+
+.offers_wrapper {
+  display: flex;
+}
