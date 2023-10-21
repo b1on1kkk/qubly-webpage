@@ -4,7 +4,9 @@
 
 ### ✨ [Live Preview](https://qubly-bey.netlify.app/)
 (not my site, but my web-page is similar)
-Figma design: https://www.figma.com/file/QvYUWalgGPiABOHQs1qvCK/Free-landing-page---Qubly-(Community)?node-id=3%3A99&mode=dev
+
+## Figma design:
+https://www.figma.com/file/QvYUWalgGPiABOHQs1qvCK/Free-landing-page---Qubly-(Community)?node-id=3%3A99&mode=dev
 
 ## Show your support
 
